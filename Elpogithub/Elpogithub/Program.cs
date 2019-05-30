@@ -19,6 +19,11 @@ namespace Elpogithub
             {
                 Console.WriteLine(i);
             }
+            for (int i = 0; i < 10; i++)
+            {
+
+            }
+            //dededededed
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
