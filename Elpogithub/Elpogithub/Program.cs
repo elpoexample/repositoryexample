@@ -20,6 +20,7 @@ namespace Elpogithub
                 Console.WriteLine(i);
             }
             Console.ReadKey();
+            Console.Write("rvrvrv");
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
         }
